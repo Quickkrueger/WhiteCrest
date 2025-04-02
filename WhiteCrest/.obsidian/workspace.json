@@ -4,29 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "59d626c57857ebc8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "351d5a09cc9a38e8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
-            }
-          }
-        ]
-      },
-      {
         "id": "24396ba5eab4c838",
         "type": "tabs",
         "children": [
@@ -34,10 +11,14 @@
             "id": "fc17a11e8fd2880a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Spell-weaving TTRPG.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Spell-weaving TTRPG"
             }
           }
         ]
@@ -113,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Spell-weaving TTRPG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Spell-weaving TTRPG"
             }
           },
           {
@@ -132,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Spell-weaving TTRPG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Spell-weaving TTRPG"
             }
           },
           {
@@ -161,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Spell-weaving TTRPG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Spell-weaving TTRPG"
             }
           }
         ]
@@ -186,9 +167,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eed842134f1ee4a2",
+  "active": "fc17a11e8fd2880a",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Welcome.md"
+    "Spell-weaving TTRPG.md",
+    "create a link.md",
+    "Untitled.canvas"
   ]
 }
